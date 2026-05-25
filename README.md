@@ -1,3 +1,5 @@
+AKRAM TANCHODK 🙂
+
 # remove_bg
 
 Local, CPU-only background removal CLI built on [rembg](https://github.com/danielgatis/rembg).
